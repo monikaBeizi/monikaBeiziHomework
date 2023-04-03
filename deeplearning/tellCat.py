@@ -27,8 +27,6 @@ num_px = train_set_x_orig.shape[1]
 train_set_x_flatten = train_set_x_orig.reshape(train_set_x_orig.shape[0],-1).T
 test_set_x_flatten = test_set_x_orig.reshape(test_set_x_orig.shape[0],-1).T
 
-#就是把这个处理成每一行代表一个图片的所有像素点，不用太在意它怎么读取行列的，因为是喂给代码的，不用自己看
-#当然最后还要转置
 ### END CODE HERE ###
 train_set_x = train_set_x_flatten / 255.
 test_set_x = test_set_x_flatten / 255.
