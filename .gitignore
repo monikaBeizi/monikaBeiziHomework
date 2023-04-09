@@ -5,3 +5,4 @@ deeplearning/week3/Week 3 - PA 2 - Planar data classification with one hidden la
 deeplearning/week3/TESTPlanar data classification with one hidden layer.ipynb
 deeplearning/week3/.ipynb_checkpoints/TESTPlanar data classification with one hidden layer-checkpoint.ipynb
 deeplearning/week3/.ipynb_checkpoints/Logistic Regression with a Neural Network mindset-checkpoint.ipynb
+*.ipynb
